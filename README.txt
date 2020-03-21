@@ -11,4 +11,4 @@ Museum bucket-list program
 4. Statistical function
 5. Recomend - Based on user data, total user data
 
-(리팩토링 진행중)
+(2학년때 들은 수업 -> 코드 리뷰 필요)
