@@ -1,7 +1,7 @@
 Java toy project in java class 
 
 date: 2019.05.~2019.06.
-tool: java
+language: java
 
 Museum bucket-list program
 
